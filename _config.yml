@@ -1,0 +1,4 @@
+# The site's name: shown at the top of the Terms and Privacy pages (as a link back to the
+# landing page) and in the browser tab. Without it GitHub Pages uses the repo name.
+title: Jousty
+description: The Discord bot for The Joust
