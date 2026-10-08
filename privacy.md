@@ -4,7 +4,7 @@ title: Jousty Privacy Policy
 
 # Jousty Privacy Policy
 
-*Last updated: October 7, 2026*
+*Last updated: October 8, 2026*
 
 Jousty keeps as little as it can, only what it needs to post in your server, and never sells
 or shares it.
@@ -18,8 +18,9 @@ or shares it.
 | Public leaderboard scores from The Joust's leaderboard service (player names, Steam IDs, scores) | to draw the scoreboard and alerts; kept for 40 days |
 | Technical logs (server IDs, errors) | to keep the bot running; old logs are overwritten automatically |
 
-In The Joust's own community server only, Jousty also runs bug reports and suggestions, which
-keep the reporter's Discord user ID with each report. No other server has those features.
+In The Joust's own community server only, Jousty also runs support tickets, which keep the
+member's Discord user ID with each ticket (and who closed it). The conversation itself stays in
+Discord. No other server has those features.
 
 ## What Jousty does not do
 
