@@ -4,7 +4,7 @@ title: Jousty
 
 # Jousty ⚔️
 
-**The Discord bot for [The Joust](https://store.steampowered.com/app/4744160/The_Joust/).**
+**The Discord bot for [The Joust](https://store.steampowered.com/app/4744160/The_Joust/?utm_source=jousty&utm_medium=web&utm_campaign=landing-page).**
 Bring The Joust's lobbies and leaderboards into your server.
 
 ## [➕ Add Jousty to your server](https://discord.com/oauth2/authorize?client_id=1513354263214952599&permissions=2251800082205696&integration_type=0&scope=bot+applications.commands)
